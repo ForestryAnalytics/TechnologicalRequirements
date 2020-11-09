@@ -1,2 +1,4 @@
-# Tutorials
-R Package Tutorials
+## Technological Requirements
+
+* Big Data
+* R Package 
