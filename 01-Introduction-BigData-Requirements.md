@@ -1,4 +1,4 @@
-## Remarks on R
+## Currently Used Tehnologies
 
 Remarks on Currently Used Technologies
 
@@ -13,7 +13,7 @@ Remarks on Currently Used Technologies
 * Serious issues have arisen with the PSM2i Server in the past regarding the inability to install necessary software updates. 
 * Can we get a bespoked R & Python Server - with a regular update policy
    
-Remarks on Python
+#### Remarks on Python
 
 * (DMcI & JP)
 
