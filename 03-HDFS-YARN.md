@@ -9,6 +9,14 @@
 The project URL is https://hadoop.apache.org/hdfs/. 
 
 ------------------------------------------------------
+
+## YARN (Yet Another Resource Negotiator)
+
+* YARN allocates resources to various applications effectively. 
+* It runs two dæmons, which take care of two different tasks: the resource manager, which does job tracking and resource allocation to applications, the application master, which monitors progress of the execution.
+
+
+------------------------------------------------------
 #### References
 
 * https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html
