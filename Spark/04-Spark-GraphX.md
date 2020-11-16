@@ -3,7 +3,7 @@ The GraphX is another library that sits on top of the Spark Core. It is basicall
 
 Specific scenarios would not be efficient if it is processed using the data-parallel model. A need for the graph-parallel model is introduced with new graph-parallel systems like Giraph and GraphLab to efficiently execute graph algorithms much faster than general data-parallel systems.
 
-![GraphX Logo](images/graphx_logo.png =56x)
+![GraphX Logo](images/graphx_logo.png)
 
 There are new inherent challenges that comes with graph computations, such as constructing the graph, modifying its structure, or expressing computations that span several graphs. As such, it is often necessary to move between table and graph views depending on the objective of the application and the business requirements.
 
